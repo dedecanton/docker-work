@@ -1,6 +1,6 @@
 # Dockerizando aplicação de chat feita com ReactJS e NodeJS
 
-Integrantes do grupo: André Canton, Arthur Vassoler, Bruno Abido e Guilherme Bortolotti
+Integrantes do grupo: André Canton, Arthur Vassoler, Bruno Abido, Guilherme Bortolotti e Lucas Reginato
 
 # Resumo
 
