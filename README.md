@@ -4,7 +4,7 @@ Integrantes do grupo: André Canton, Arthur Vassoler, Bruno Abido e Guilherme Bo
 
 # Resumo
 
-Nesse trabalho vamos dockerizar a aplicação **[Realtime Chat Application](https://github.com/adrianhajdin/project_chat_application)** desenvolvida pelo ****[Adrian Hajdin](https://github.com/adrianhajdin)** dono do canal [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).  O projeto consiste em um chat em tempo real usando React no front-end, e NodeJS + Socket.io no back-end.
+Nesse trabalho vamos dockerizar a aplicação **[Realtime Chat Application](https://github.com/adrianhajdin/project_chat_application)** desenvolvida pelo **[Adrian Hajdin](https://github.com/adrianhajdin)** dono do canal [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).  O projeto consiste em um chat em tempo real usando React no front-end, e NodeJS + Socket.io no back-end.
 
 Em comparação com o repositório da aplicação original, há as seguintes mudanças:
 
@@ -85,7 +85,7 @@ services:
 1. Clonar repositório
     
     ```jsx
-    git clone [https://github.com/dedecanton/docker-work.git](https://github.com/dedecanton/docker-work.git)
+    git clone https://github.com/dedecanton/docker-work.git
     ```
     
 2. Abrir o projeto no terminal
